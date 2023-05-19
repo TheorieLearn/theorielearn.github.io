@@ -1,6 +1,3 @@
-<img align=right width=150 src="TheorieLearn.png">
-
-# TheorieLearn
 [![Slack](https://img.shields.io/badge/join%20slack-pl4tcs-orange)](https://pl4tcs.slack.com)
 
 ### Publications
