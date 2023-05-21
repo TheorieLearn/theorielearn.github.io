@@ -14,7 +14,6 @@
    * [`pl-big-o-input`](https://prairielearn.readthedocs.io/en/latest/elements/#pl-big-o-input-element)
    * [`pl-hidden-hints`](https://prairielearn.readthedocs.io/en/latest/elements/#pl-hidden-hints-element)
 
-
 ### Credits
 
 * Instigator: Jason Xia 
@@ -38,14 +37,19 @@
   * Fall 2022: Sariel Har-Peled
   * Spring 2023: Chandra Chekuri
   * Fall 2023: Jeff Erickson
-* CS 225 (since Fall 2022): Carl Evans and Brad Solomon
+* CS 225:
+  * Fall 2022 and Spring 2023: Carl Evans and Brad Solomon
+  * Since Fall 2023: Brad Solomon
 * CS 173 (since Fall 2022): Benjamin Cosman
 * CS 401 and CS 403 (since Spring 2023): Yael Gertner
 * CS 277 (since Spring 2023): Brad Solomon
 
-
 **Funding:**
-Since August 2022, this project has been funded by the Grainger College of Engineering, through the [Strategic Instructional Innovations Program](https://ae3.engineering.illinois.edu/siip-grants/), under the auspices of the [Academy for Excellence in Engineering Education](https://ae3.engineering.illinois.edu/).  The faculty members of the SIIP team are Jeff Erickson (PI), Carl Evans, Yael Gertner, Brad Solomon, and Tiffani Williams.  Our AE3 liaison is Yuting Chen.
+Since August 2022, this project has been funded by the Grainger College of Engineering, through the [Strategic Instructional Innovations Program](https://ae3.engineering.illinois.edu/siip-grants/), under the auspices of the [Academy for Excellence in Engineering Education](https://ae3.engineering.illinois.edu/), with matching funds from the Department of Computer Science since July 2023.  The current faculty members of the SIIP team are Jeff Erickson (PI), Carl Evans, Yael Gertner, and Brad Solomon; the startup SIIP team in 2022–23 also included Tiffani Williams.
+
+* [2022-2023 startup proposal](proposals/TheorieLearn-SIIP-2022.pdf) — AE3 Liaison: Yuting Chen
+* [2023-2024 proposal](proposals/TheorieLearn-SIIP-2023.pdf) — AE3 Liaison: Mariana Silva
+
 
 **Other Acknowledgments:**
 Many thanks to the core PrairieLearn development team, espeially Dave Mussulman, Seth Poulson, Nathan Walters, and Matt West.  FInally, we thank the roughly 3500 students in CS 374, CS 225, and CS 173 who have used these resources, for their patience, frustration, and helpful feedback.
