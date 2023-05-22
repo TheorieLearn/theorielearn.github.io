@@ -1,5 +1,9 @@
 [![Slack](https://img.shields.io/badge/join%20slack-pl4tcs-orange)](https://pl4tcs.slack.com)
 
+We are a team developing resources on the PrairieLearn platform to support the teaching of algorithms, data structures, and other theoretical aspects of computer science, at several different levels of the computer science curriculum at the University of Illinois.  This development effort started with [CS 374](https://courses.engr.illinois.edu/cs374al1/sp2023/) (Algorithms and Models of Computation), but has since expanded to include several other classes at Illinois, including [CS 173](https://courses.engr.illinois.edu/193/sp2023/) (Discrete Structures), [CS 277](https://courses.engr.illinois.edu/cs277/sp2023/) (Algorithms and Data Structures for [Data Science](https://datascience.illinois.edu/)), and [CS 401](https://cs.illinois.edu/academics/courses/cs401)/[403](https://cs.illinois.edu/academics/courses/cs403) (Accelerated Fundamentals of Algorithms).
+
+
+
 ### Publications
 
 * Jason Xia and Craig Zilles.  [Using context-free grammars to scaffold and automate feedback in precise mathematical writing](https://doi.org/10.1145/3545945.3569728).  _Proc. 54th SIGSCE_, 479–485, 2023.
@@ -49,7 +53,6 @@ Since August 2022, this project has been funded by the Grainger College of Engin
 
 * [2022-2023 startup proposal](proposals/TheorieLearn-SIIP-2022.pdf) — AE3 Liaison: Yuting Chen
 * [2023-2024 proposal](proposals/TheorieLearn-SIIP-2023.pdf) — AE3 Liaison: Mariana Silva
-
 
 **Other Acknowledgments:**
 Many thanks to the core PrairieLearn development team, espeially Dave Mussulman, Seth Poulson, Nathan Walters, and Matt West.  FInally, we thank the roughly 3500 students in CS 374, CS 225, and CS 173 who have used these resources, for their patience, frustration, and helpful feedback.
