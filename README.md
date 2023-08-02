@@ -8,7 +8,7 @@ We are a team developing resources on the PrairieLearn platform to support the t
 
 * Jason Xia and Craig Zilles.  [Using context-free grammars to scaffold and automate feedback in precise mathematical writing](https://doi.org/10.1145/3545945.3569728).  _Proc. 54th SIGSCE_, 479–485, 2023.
 
-* Jeff Erickson, Jason Xia, Eliot Wong Robson, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, Jiwon Lee, Patrick Lin, Steven Pan, Samuel Ruggerio, Tomoko Sakurayama, Andrew Yin, Yael Gertner, and Brad Solomon.  [Auto-graded scaffolding exercises for theoretical computer science
+* [Jeff Erickson](https://jeffe.cs.illinois.edu/), Jason Xia, Eliot Wong Robson, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, Jiwon Lee, Patrick Lin, Steven Pan, Samuel Ruggerio, Tomoko Sakurayama, Andrew Yin, Yael Gertner, and Brad Solomon.  [Auto-graded scaffolding exercises for theoretical computer science
 ](https://jeffe.cs.illinois.edu/pubs/pl4tcs.html).  To appear in _Proc. 2023 ASEE Annual Conference_, 2023.
 
 ### Products
@@ -21,35 +21,35 @@ We are a team developing resources on the PrairieLearn platform to support the t
 ### Credits
 
 * Instigator: Jason Xia 
-* Chief Software Architect (since Fall 2021): Eliot Robson 
-* Director (since Fall 2021): Jeff Erickson
-* Co-director (since Fall 2022): Carl Evans
+* Chief Software Architect (since Fall 2021): [Eliot Robson](https://eliotwrobson.github.io/)
+* Director (since Fall 2021): [Jeff Erickson](https://jeffe.cs.illinois.edu/)
+* Co-director (since Fall 2022): [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans)
 
 **Developers:**
 * Spring 2021: Patrick Lin, Jason Xia
 * Fall 2021: Julie Lee, Steven Pan, Eliot Robson, Tomoko Sakurayama, Jason Xia
-* Spring 2022: Eric Jin, Eliot Robson, Sam Ruggerio, Jason Xia, Andrew Yin
-* Summer 2022: Eliot Robson, Sam Ruggerio
-* Fall 2022: Ben Clarage, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, Eliot Robson, Sam Ruggerio, Andrew Yin
-* Spring 2023: Anshul Bheemreddy, Ben Clarage, Tue Do, Zhuofan Jia, Eric Jin, Eliot Robson, Sam Ruggerio
+* Spring 2022: Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio, Jason Xia, Andrew Yin
+* Summer 2022: [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio
+* Fall 2022: Ben Clarage, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio, Andrew Yin
+* Spring 2023: Anshul Bheemreddy, Ben Clarage, Tue Do, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio
 
 **Instructors** that have used resources in this repository in their courses:
 * CS 374:
   * Spring 2021: Chandra Chekuri and Patrick Lin
-  * Fall 2021: Jeff Erickson and Dakshita Khurana
+  * Fall 2021: [Jeff Erickson](https://jeffe.cs.illinois.edu/) and Dakshita Khurana
   * Spring 2022: Timothy Chan and Ruta Mehta
   * Fall 2022: Sariel Har-Peled
   * Spring 2023: Chandra Chekuri
-  * Fall 2023: Jeff Erickson
+  * Fall 2023: [Jeff Erickson](https://jeffe.cs.illinois.edu/)
 * CS 225:
-  * Fall 2022 and Spring 2023: Carl Evans and Brad Solomon
+  * Fall 2022 and Spring 2023: [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans) and Brad Solomon
   * Since Fall 2023: Brad Solomon
 * CS 173 (since Fall 2022): Benjamin Cosman
 * CS 401 and CS 403 (since Spring 2023): Yael Gertner
 * CS 277 (since Spring 2023): Brad Solomon
 
 **Funding:**
-Since August 2022, this project has been funded by the Grainger College of Engineering, through the [Strategic Instructional Innovations Program](https://ae3.engineering.illinois.edu/siip-grants/), under the auspices of the [Academy for Excellence in Engineering Education](https://ae3.engineering.illinois.edu/), with matching funds from the Department of Computer Science since July 2023.  The current faculty members of the SIIP team are Jeff Erickson (PI), Carl Evans, Yael Gertner, and Brad Solomon; the startup SIIP team in 2022–23 also included Tiffani Williams.
+Since August 2022, this project has been funded by the Grainger College of Engineering, through the [Strategic Instructional Innovations Program](https://ae3.engineering.illinois.edu/siip-grants/), under the auspices of the [Academy for Excellence in Engineering Education](https://ae3.engineering.illinois.edu/), with matching funds from the Department of Computer Science since July 2023.  The current faculty members of the SIIP team are [Jeff Erickson](https://jeffe.cs.illinois.edu/) (PI), [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans), Yael Gertner, and Brad Solomon; the startup SIIP team in 2022–23 also included Tiffani Williams.
 
 * [2022-2023 startup proposal](proposals/TheorieLearn-SIIP-2022.pdf) — AE3 Liaison: Yuting Chen
 * [2023-2024 proposal](proposals/TheorieLearn-SIIP-2023.pdf) — AE3 Liaison: Mariana Silva
