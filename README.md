@@ -26,13 +26,13 @@ We are a team developing resources on the PrairieLearn platform to support the t
 * Co-director (since Fall 2022): [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans)
 
 **Developers:**
-* Spring 2021: Patrick Lin, Jason Xia
-* Fall 2021: Julie Lee, Steven Pan, Eliot Robson, Tomoko Sakurayama, Jason Xia
-* Spring 2022: Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio, Jason Xia, Andrew Yin
-* Summer 2022: [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio
-* Fall 2022: Ben Clarage, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio, Andrew Yin
-* Spring 2023: Anshul Bheemreddy, Ben Clarage, Tue Do, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio
 * Fall 2023: Alex Jin, Dhiraj Kuttichirayil, [Eliot Robson](https://eliotwrobson.github.io/), Nathan Omerza, Riya Verma, Yuqing Zhai
+* Spring 2023: Anshul Bheemreddy, Ben Clarage, Tue Do, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio
+* Fall 2022: Ben Clarage, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio, Andrew Yin
+* Summer 2022: [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio
+* Spring 2022: Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio, Jason Xia, Andrew Yin
+* Fall 2021: Julie Lee, Steven Pan, Eliot Robson, Tomoko Sakurayama, Jason Xia
+* Spring 2021: Patrick Lin, Jason Xia
 
 
 **Instructors** that have used resources in this repository in their courses:
