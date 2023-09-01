@@ -24,6 +24,7 @@ We are a team developing resources on the PrairieLearn platform to support the t
 * Chief Software Architect (since Fall 2021): [Eliot Robson](https://eliotwrobson.github.io/)
 * Director (since Fall 2021): [Jeff Erickson](https://jeffe.cs.illinois.edu/)
 * Co-director (since Fall 2022): [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans)
+* Research assistants: [Eliot Robson](https://eliotwrobson.github.io/) and Hongxuan Chen
 
 **Developers:**
 * Fall 2023: Alex Jin, Dhiraj Kuttichirayil, [Eliot Robson](https://eliotwrobson.github.io/), Nathan Omerza, Riya Verma, Yuqing Zhai
