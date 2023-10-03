@@ -17,6 +17,9 @@ We are a team developing resources on the PrairieLearn platform to support the t
 * Elements createed by our project that have since been migrated into the main PrairieLearn repo:
    * [`pl-big-o-input`](https://prairielearn.readthedocs.io/en/latest/elements/#pl-big-o-input-element)
    * [`pl-hidden-hints`](https://prairielearn.readthedocs.io/en/latest/elements/#pl-hidden-hints-element)
+* In development:
+   * [Graph/state builder element](https://github.com/Surg-Dev/graph-state-builder-pl), based in part on [Evan Wallace's fsm](https://github.com/evanw/fsm) <!-- and [Caleb Evans' automata](https://github.com/caleb531/automata).-->
+
 
 ### Credits
 
