@@ -11,7 +11,7 @@ We are a team developing resources on the PrairieLearn platform to support the t
 * [Jeff Erickson](https://jeffe.cs.illinois.edu/), Jason Xia, Eliot Wong Robson, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, Jiwon Lee, Patrick Lin, Steven Pan, Samuel Ruggerio, Tomoko Sakurayama, Andrew Yin, Yael Gertner, and Brad Solomon.  [Auto-graded scaffolding exercises for theoretical computer science
 ](https://jeffe.cs.illinois.edu/pubs/pl4tcs.html).  _Proc. 2023 ASEE Annual Conference_, 2023.
 
-* Caleb Evans and Eliot G. Robson.  [automata: A Python package for simulating and manipulating automata](https://joss.theoj.org/papers/10.21105/joss.05759).  _J. Open Source Software_ 8(90):5759, 2023.
+* Caleb Evans and Eliot W. Robson.  [automata: A Python package for simulating and manipulating automata](https://joss.theoj.org/papers/10.21105/joss.05759).  _J. Open Source Software_ 8(90):5759, 2023.
 
 ### Products
 * [CS 374 Github repository](https://github.com/jeffgerickson/pl-uiuc-cs374)
