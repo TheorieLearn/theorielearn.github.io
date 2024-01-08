@@ -33,6 +33,7 @@ We are a team developing resources on the PrairieLearn platform to support the t
 * Research assistants: [Eliot Robson](https://eliotwrobson.github.io/) and Hongxuan Chen
 
 **Developers:**
+* Spring 2024: Alex Jin, Dhiraj Kuttichirayil, Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), George Huber, Nathan Omerza, Shlok Mehrotra, Vedaant Jain, Yuqing Zhai
 * Fall 2023: Alex Jin, Dhiraj Kuttichirayil, [Eliot Robson](https://eliotwrobson.github.io/), Nathan Omerza, Riya Verma, Yuqing Zhai
 * Spring 2023: Anshul Bheemreddy, Ben Clarage, Tue Do, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio
 * Fall 2022: Ben Clarage, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio, Andrew Yin
@@ -50,9 +51,8 @@ We are a team developing resources on the PrairieLearn platform to support the t
   * Fall 2022: Sariel Har-Peled
   * Spring 2023: Chandra Chekuri
   * Fall 2023: [Jeff Erickson](https://jeffe.cs.illinois.edu/)
-* CS 225:
-  * Fall 2022 and Spring 2023: [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans) and Brad Solomon
-  * Since Fall 2023: Brad Solomon
+  * Spring 2024: Timothy Chan and Ruta Mehta
+* CS 225 (since Fall 2022): [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans) and Brad Solomon
 * CS 173 (since Fall 2022): Benjamin Cosman
 * CS 401 and CS 403 (since Spring 2023): Yael Gertner
 * CS 277 (since Spring 2023): Brad Solomon
