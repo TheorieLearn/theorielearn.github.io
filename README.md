@@ -13,6 +13,8 @@ We are a team developing resources on the PrairieLearn platform to support the t
 
 * Caleb Evans and Eliot W. Robson.  [automata: A Python package for simulating and manipulating automata](https://joss.theoj.org/papers/10.21105/joss.05759).  _J. Open Source Software_ 8(90):5759, 2023.
 
+* 🔥 Eliot W. Robson, Samm Ruggerio, and Jeff Erickson.  FSM Builder: A tool for writing autograded finite automata questions.  To appear in _Proc. 29th ITiCSE_, 2024.
+
 ### Products
 * [CS 374 Github repository](https://github.com/jeffgerickson/pl-uiuc-cs374)
 * [Public practice instance of CS 374](https://www.prairielearn.org/pl/course_instance/129595)
