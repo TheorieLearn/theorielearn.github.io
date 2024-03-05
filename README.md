@@ -8,12 +8,12 @@ We are a team developing resources on the PrairieLearn platform to support the t
 
 * Jason Xia and Craig Zilles.  [Using context-free grammars to scaffold and automate feedback in precise mathematical writing](https://doi.org/10.1145/3545945.3569728).  _Proc. 54th SIGSCE_, 479–485, 2023.
 
-* [Jeff Erickson](https://jeffe.cs.illinois.edu/), Jason Xia, Eliot Wong Robson, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, Jiwon Lee, Patrick Lin, Steven Pan, Samuel Ruggerio, Tomoko Sakurayama, Andrew Yin, Yael Gertner, and Brad Solomon.  [Auto-graded scaffolding exercises for theoretical computer science
+* [Jeff Erickson](https://jeffe.cs.illinois.edu/), Jason Xia, Eliot Wong Robson, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, Jiwon Lee, Patrick Lin, Steven Pan, [Samuel Ruggerio]((https://surg.dev/)), Tomoko Sakurayama, Andrew Yin, Yael Gertner, and Brad Solomon.  [Auto-graded scaffolding exercises for theoretical computer science
 ](https://jeffe.cs.illinois.edu/pubs/pl4tcs.html).  _Proc. 2023 ASEE Annual Conference_, 2023.
 
-* Caleb Evans and Eliot W. Robson.  [automata: A Python package for simulating and manipulating automata](https://joss.theoj.org/papers/10.21105/joss.05759).  _J. Open Source Software_ 8(90):5759, 2023.
+* Caleb Evans and [Eliot W. Robson](https://eliotwrobson.github.io/).  [automata: A Python package for simulating and manipulating automata](https://joss.theoj.org/papers/10.21105/joss.05759).  _J. Open Source Software_ 8(90):5759, 2023.
 
-* 🔥 Eliot W. Robson, Samm Ruggerio, and Jeff Erickson.  FSM Builder: A tool for writing autograded finite automata questions.  To appear in _Proc. 29th ITiCSE_, 2024.
+* 🔥 [Eliot W. Robson](https://eliotwrobson.github.io/), [Samuel Ruggerio](https://surg.dev/), and [Jeff Erickson](https://jeffe.cs.illinois.edu/).  FSM Builder: A tool for writing autograded finite automata questions.  To appear in _Proc. 29th ITiCSE_, 2024.
 
 ### Products
 * [CS 374 Github repository](https://github.com/jeffgerickson/pl-uiuc-cs374)
