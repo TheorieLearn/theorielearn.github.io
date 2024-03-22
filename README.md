@@ -16,7 +16,7 @@ We are a team developing resources on the PrairieLearn platform to support the t
 ### Demos
 
 * [Public practice instance of CS 374](https://www.prairielearn.org/pl/course_instance/129595)
-* 🔥 Contributed to the [Spiffy Questions with PrairieLearn](https://www.prairielearn.com/sigcse2024) workshop) at [SIGCSE 2024](https://sigcse2024.sigcse.org/)
+* 🔥 Contributed to the [Spiffy Questions with PrairieLearn](https://www.prairielearn.com/sigcse2024) workshop at [SIGCSE 2024](https://sigcse2024.sigcse.org/)
 * 🚧 Public course repository (code MIT Licence; text CC-BY) coming soon
 
 ### Products
