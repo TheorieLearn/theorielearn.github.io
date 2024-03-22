@@ -17,10 +17,11 @@ We are a team developing resources on the PrairieLearn platform to support the t
 
 * [Public practice instance of CS 374](https://www.prairielearn.org/pl/course_instance/129595)
 * 🔥 Contributed to the [Spiffy Questions with PrairieLearn](https://www.prairielearn.com/sigcse2024) workshop) at [SIGCSE 2024](https://sigcse2024.sigcse.org/)
+* 🚧 Public course repository (code MIT Licence; text CC-BY) coming soon
 
 ### Products
 
-* [CS 374 Github repository](https://github.com/jeffgerickson/pl-uiuc-cs374)
+* [CS 374 Github repository](https://github.com/jeffgerickson/pl-uiuc-cs374) (private)
 * Elements createed by our project that have since been migrated into PrairieLearn proper include
    * [`pl-big-o-input`](https://prairielearn.readthedocs.io/en/latest/elements/#pl-big-o-input-element)
    * [`pl-hidden-hints`](https://prairielearn.readthedocs.io/en/latest/elements/#pl-hidden-hints-element)
