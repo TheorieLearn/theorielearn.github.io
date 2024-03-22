@@ -2,8 +2,6 @@
 
 We are a team developing resources on the PrairieLearn platform to support the teaching of algorithms, data structures, and other theoretical aspects of computer science, at several different levels of the computer science curriculum at the University of Illinois.  This development effort started with [CS 374](https://courses.engr.illinois.edu/cs374al1/fa2023/) (Algorithms and Models of Computation), but has since expanded to include several other classes at Illinois, including [CS 173](https://courses.engr.illinois.edu/193/sp2023/) (Discrete Structures), [CS 225](https://courses.engr.illinois.edu/cs225/fa2023/) (Data Structures}, [CS 277](https://courses.engr.illinois.edu/cs277/sp2023/) (Algorithms and Data Structures for [Data Science](https://datascience.illinois.edu/)), and [CS 401](https://cs.illinois.edu/academics/courses/cs401)/[403](https://cs.illinois.edu/academics/courses/cs403) (Accelerated Fundamentals of Algorithms).
 
-
-
 ### Publications
 
 * Jason Xia and Craig Zilles.  [Using context-free grammars to scaffold and automate feedback in precise mathematical writing](https://doi.org/10.1145/3545945.3569728).  _Proc. 54th SIGSCE_, 479–485, 2023.
@@ -15,10 +13,15 @@ We are a team developing resources on the PrairieLearn platform to support the t
 
 * 🔥 [Eliot W. Robson](https://eliotwrobson.github.io/), [Samuel Ruggerio](https://surg.dev/), and [Jeff Erickson](https://jeffe.cs.illinois.edu/).  FSM Builder: A tool for writing autograded finite automata questions.  To appear in _Proc. 29th ITiCSE_, 2024.
 
-### Products
-* [CS 374 Github repository](https://github.com/jeffgerickson/pl-uiuc-cs374)
+### Demos
+
 * [Public practice instance of CS 374](https://www.prairielearn.org/pl/course_instance/129595)
-* Elements createed by our project that have since been migrated into the main PrairieLearn repo:
+* 🔥 Contributed to the [Spiffy Questions with PrairieLearn](https://www.prairielearn.com/sigcse2024) workshop) at [SIGCSE 2024](https://sigcse2024.sigcse.org/)
+
+### Products
+
+* [CS 374 Github repository](https://github.com/jeffgerickson/pl-uiuc-cs374)
+* Elements createed by our project that have since been migrated into PrairieLearn proper include
    * [`pl-big-o-input`](https://prairielearn.readthedocs.io/en/latest/elements/#pl-big-o-input-element)
    * [`pl-hidden-hints`](https://prairielearn.readthedocs.io/en/latest/elements/#pl-hidden-hints-element)
 * Contributions to the [automata](https://github.com/caleb531/automata) Python library
