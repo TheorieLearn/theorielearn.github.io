@@ -22,6 +22,7 @@ We are a team developing resources on the PrairieLearn platform to support the t
 ### Products
 
 * [CS 374 Github repository](https://github.com/jeffgerickson/pl-uiuc-cs374) (private)
+   * 🎁 **We are happy to provide access to our Github repository to interested instructors!**
 * Elements createed by our project that have since been migrated into PrairieLearn proper include
    * [`pl-big-o-input`](https://prairielearn.readthedocs.io/en/latest/elements/#pl-big-o-input-element)
    * [`pl-hidden-hints`](https://prairielearn.readthedocs.io/en/latest/elements/#pl-hidden-hints-element)
