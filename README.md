@@ -39,7 +39,7 @@ We are a team developing resources on the PrairieLearn platform to support the t
 * Research assistants: [Eliot Robson](https://eliotwrobson.github.io/) and Hongxuan Chen
 
 **Developers:**
-* Spring 2024: Alex Jin, Dhiraj Kuttichirayil, Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), George Huber, Nathan Omerza, Shlok Mehrotra, Vedaant Jain, Yuqing Zhai
+* Spring 2024: Alex Jin, Dhiraj Kuttichirayil, Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), George Huber, Nathan Omerza, Vedaant Jain, Yuqing Zhai
 * Fall 2023: Alex Jin, Dhiraj Kuttichirayil, [Eliot Robson](https://eliotwrobson.github.io/), Nathan Omerza, Riya Verma, Yuqing Zhai
 * Spring 2023: Anshul Bheemreddy, Ben Clarage, Tue Do, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio
 * Fall 2022: Ben Clarage, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio, Andrew Yin
