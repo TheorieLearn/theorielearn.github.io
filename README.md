@@ -11,7 +11,7 @@ We are a team developing resources on the PrairieLearn platform to support the t
 
 * Caleb Evans and [Eliot W. Robson](https://eliotwrobson.github.io/).  [automata: A Python package for simulating and manipulating automata](https://joss.theoj.org/papers/10.21105/joss.05759).  _J. Open Source Software_ 8(90):5759, 2023.
 
-* 🔥 [Eliot W. Robson](https://eliotwrobson.github.io/), [Samuel Ruggerio](https://surg.dev/), and [Jeff Erickson](https://jeffe.cs.illinois.edu/).  FSM Builder: A tool for writing autograded finite automata questions.  To appear in _Proc. 29th ITiCSE_, 2024.
+* 🔥 [Eliot W. Robson](https://eliotwrobson.github.io/), [Samuel Ruggerio](https://surg.dev/), and [Jeff Erickson](https://jeffe.cs.illinois.edu/).  [FSM Builder: A tool for writing autograded finite automata questions](https://jeffe.cs.illinois.edu/pubs/fsmbuilder.html).  To appear in _Proc. 29th ITiCSE_, 2024.
 
 ### Demos
 
