@@ -67,6 +67,8 @@ _Proc. 29th ITiCSE_, 269–275, 2024.
   * Spring 2023: Chandra Chekuri
   * Fall 2023: [Jeff Erickson](https://jeffe.cs.illinois.edu/)
   * Spring 2024: Timothy Chan and Ruta Mehta
+  * Fall 2024: Sariel Har-Peled
+  * Spring 2025: Chandra Chekuri and James Hulett
 * CS 225 (since Fall 2022): [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans) and [Brad Solomon](https://publish.illinois.edu/bradsol/)
 * CS 173:
   * Fall 2022–Spring 2024: Benjamin Cosman
