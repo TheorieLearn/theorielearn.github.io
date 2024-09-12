@@ -4,19 +4,26 @@ We are a team developing resources on the PrairieLearn platform to support the t
 
 ### Publications
 
-* Jason Xia and Craig Zilles.  [Using context-free grammars to scaffold and automate feedback in precise mathematical writing](https://doi.org/10.1145/3545945.3569728).  _Proc. 54th SIGSCE_, 479–485, 2023.
+* Jason Xia and [Craig Zilles](https://zilles.cs.illinois.edu/).  [Using context-free grammars to scaffold and automate feedback in precise mathematical writing](https://doi.org/10.1145/3545945.3569728).  _Proc. 54th SIGSCE_, 479–485, 2023.
 
-* [Jeff Erickson](https://jeffe.cs.illinois.edu/), Jason Xia, Eliot Wong Robson, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, Jiwon Lee, Patrick Lin, Steven Pan, [Samuel Ruggerio](https://surg.dev/), Tomoko Sakurayama, Andrew Yin, Yael Gertner, and Brad Solomon.  [Auto-graded scaffolding exercises for theoretical computer science
-](https://jeffe.cs.illinois.edu/pubs/pl4tcs.html).  _Proc. 2023 ASEE Annual Conference_, 2023.
+* [Jeff Erickson](https://jeffe.cs.illinois.edu/), Jason Xia, Eliot Wong Robson, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, Jiwon Lee, Patrick Lin, Steven Pan, [Samuel Ruggerio](https://surg.dev/), Tomoko Sakurayama, Andrew Yin, [Yael Gertner](https://ygertner.web.illinois.edu/), and [Brad Solomon](https://publish.illinois.edu/bradsol/).
+[Auto-graded scaffolding exercises for theoretical computer science](https://jeffe.cs.illinois.edu/pubs/pl4tcs.html).
+_Proc. 2023 ASEE Annual Conference_, 2023.
 
-* Caleb Evans and [Eliot W. Robson](https://eliotwrobson.github.io/).  [automata: A Python package for simulating and manipulating automata](https://joss.theoj.org/papers/10.21105/joss.05759).  _J. Open Source Software_ 8(90):5759, 2023.
+* Caleb Evans and [Eliot W. Robson](https://eliotwrobson.github.io/).
+[automata: A Python package for simulating and manipulating automata](https://joss.theoj.org/papers/10.21105/joss.05759).
+_J. Open Source Software_ 8(90):5759, 2023.
 
-* 🔥 [Eliot W. Robson](https://eliotwrobson.github.io/), [Samuel Ruggerio](https://surg.dev/), and [Jeff Erickson](https://jeffe.cs.illinois.edu/).  [FSM Builder: A tool for writing autograded finite automata questions](https://jeffe.cs.illinois.edu/pubs/fsmbuilder.html).  To appear in _Proc. 29th ITiCSE_, 2024.
+* 🔥 [Eliot W. Robson](https://eliotwrobson.github.io/),
+[Samuel Ruggerio](https://surg.dev/),
+and [Jeff Erickson](https://jeffe.cs.illinois.edu/).
+[FSM Builder: A tool for writing autograded finite automata questions]([https://jeffe.cs.illinois.edu/pubs/fsmbuilder.html](https://dl.acm.org/doi/10.1145/3649217.3653599)).
+_Proc. 29th ITiCSE_, 269–275, 2024.
 
 ### Demos
 
 * [Public practice instance of CS 374](https://www.prairielearn.org/pl/course_instance/129595)
-* 🔥 Contributed to the [Spiffy Questions with PrairieLearn](https://www.prairielearn.com/sigcse2024) workshop at [SIGCSE 2024](https://sigcse2024.sigcse.org/)
+* Contributed to the [Spiffy Questions with PrairieLearn](https://www.prairielearn.com/sigcse2024) workshop at [SIGCSE 2024](https://sigcse2024.sigcse.org/)
 * 🚧 Public course repository (code MIT Licence; text CC-BY) coming soon
 
 ### Products
@@ -40,6 +47,7 @@ We are a team developing resources on the PrairieLearn platform to support the t
 * Research assistants: [Eliot Robson](https://eliotwrobson.github.io/) and Hongxuan Chen
 
 **Developers:**
+* Fall 2024: Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), Nathan Omerza, Yuqing Zhai, <i>more TBD</i>
 * Spring 2024: Alex Jin, Dhiraj Kuttichirayil, Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), George Huber, Nathan Omerza, Vedaant Jain, Yuqing Zhai
 * Fall 2023: Alex Jin, Dhiraj Kuttichirayil, [Eliot Robson](https://eliotwrobson.github.io/), Nathan Omerza, Riya Verma, Yuqing Zhai
 * Spring 2023: Anshul Bheemreddy, Ben Clarage, Tue Do, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio
@@ -59,16 +67,32 @@ We are a team developing resources on the PrairieLearn platform to support the t
   * Spring 2023: Chandra Chekuri
   * Fall 2023: [Jeff Erickson](https://jeffe.cs.illinois.edu/)
   * Spring 2024: Timothy Chan and Ruta Mehta
-* CS 225 (since Fall 2022): [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans) and Brad Solomon
-* CS 173 (since Fall 2022): Benjamin Cosman
-* CS 401 and CS 403 (since Spring 2023): Yael Gertner
+* CS 225 (since Fall 2022): [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans) and [Brad Solomon](https://publish.illinois.edu/bradsol/)
+* CS 173:
+  * Fall 2022–Spring 2024: Benjamin Cosman
+  * Fall 2024: [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans)
+* CS 401 and CS 403 (since Spring 2023): [Yael Gertner](https://ygertner.web.illinois.edu/)
 * CS 277 (since Spring 2023): Brad Solomon
 
 **Funding:**
-Since August 2022, this project has been funded by the Grainger College of Engineering, through the [Strategic Instructional Innovations Program](https://ae3.engineering.illinois.edu/siip-grants/), under the auspices of the [Academy for Excellence in Engineering Education](https://ae3.engineering.illinois.edu/), with matching funds from the Department of Computer Science since July 2023.  The current faculty members of the SIIP team are [Jeff Erickson](https://jeffe.cs.illinois.edu/) (PI), [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans), Yael Gertner, and Brad Solomon; the 2022–23 startup SIIP team also included Tiffani Williams.
 
-* [2022-2023 startup proposal](proposals/TheorieLearn-SIIP-2022.pdf) — AE3 Liaison: Yuting Chen
-* [2023-2024 proposal](proposals/TheorieLearn-SIIP-2023.pdf) — AE3 Liaison: Mariana Silva
+* This project is primarily funded by the Grainger College of Engineering, through the [Strategic Instructional Innovations Program](https://ae3.engineering.illinois.edu/siip-grants/), under the auspices of the [Academy for Excellence in Engineering Education](https://ae3.engineering.illinois.edu/), with matching funds from the Department of Computer Science (now the Siebel Schhol of Computing and Data Science) since July 2023.  The current faculty members of the SIIP team are
+[Jeff Erickson](https://jeffe.cs.illinois.edu/) (PI),
+[Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans),
+[Yael Gertner](https://ygertner.web.illinois.edu/),
+and [Brad Solomon](https://publish.illinois.edu/bradsol/);
+the 2022–23 startup SIIP team also included Tiffani Williams.
+
+  * [2022-2023 startup proposal](proposals/TheorieLearn-SIIP-2022.pdf) — AE3 Liaison: Yuting Chen
+  * [2023-2024 proposal](proposals/TheorieLearn-SIIP-2023.pdf) — AE3 Liaison: Mariana Silva
+  * [2024-2025 renewal](proposals/TheorieLearn-SIIP-2024.pdf) — AE3 Liaison: Mattox Beckman
+ 
+* 🔥 Related research is funded by NSF grant CNS-2434363. “Theory-ABCs: Transforming online theory instruction while building ability, belonging, and confidence”, led by [Diana Franklin](https://people.cs.uchicago.edu/~dmfranklin/) (Univerity of Chicago),
+with [Jeff Erickson](https://jeffe.cs.illinois.edu/) (Illinois PI),
+[Yael Gertner](https://ygertner.web.illinois.edu/),
+[Geoffrey Herman](https://publish.illinois.edu/glherman/) (Illinois co-PI),
+and [Seth Poulsen](https://sethpoulsen.github.io/) (Utah State PI).
+
 
 **Other Acknowledgments:**
-Many thanks to the core PrairieLearn development team, espeially Dave Mussulman, Seth Poulson, Nathan Walters, and Matt West.  FInally, we thank the roughly 3500 students in CS 374, CS 225, and CS 173 who have used these resources, for their patience, frustration, and helpful feedback.
+Many thanks to the core PrairieLearn development team, especially Dave Mussulman, Seth Poulson, Nathan Walters, and Matt West.  FInally, we thank the roughly 3500 students in CS 374, CS 225, and CS 173 who have used these resources, for their patience, frustration, and helpful feedback.
