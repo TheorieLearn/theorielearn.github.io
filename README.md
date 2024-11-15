@@ -47,7 +47,7 @@ _Proc. 29th ITiCSE_, 269–275, 2024.
 * Research assistants: [Eliot Robson](https://eliotwrobson.github.io/) and Hongxuan Chen
 
 **Developers:**
-* Fall 2024: Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), Nathan Omerza, Yuqing Zhai, <i>more TBD</i>
+* Fall 2024: Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), Elisa Carillo, Nathan Omerza, Yuqing Zhai
 * Spring 2024: Alex Jin, Dhiraj Kuttichirayil, Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), George Huber, Nathan Omerza, Vedaant Jain, Yuqing Zhai
 * Fall 2023: Alex Jin, Dhiraj Kuttichirayil, [Eliot Robson](https://eliotwrobson.github.io/), Nathan Omerza, Riya Verma, Yuqing Zhai
 * Spring 2023: Anshul Bheemreddy, Ben Clarage, Tue Do, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio
@@ -89,7 +89,7 @@ the 2022–23 startup SIIP team also included Tiffani Williams.
   * [2023-2024 proposal](proposals/TheorieLearn-SIIP-2023.pdf) — AE3 Liaison: Mariana Silva
   * [2024-2025 renewal](proposals/TheorieLearn-SIIP-2024.pdf) — AE3 Liaison: Mattox Beckman
  
-* 🔥 Related research is funded by NSF grant CNS-2434363. “Theory-ABCs: Transforming online theory instruction while building ability, belonging, and confidence”, led by [Diana Franklin](https://people.cs.uchicago.edu/~dmfranklin/) (Univerity of Chicago),
+* 🔥 [Related research](https://www.canonlab.org/theoryabcs) is funded by NSF grant CNS-2434363. “Theory-ABCs: Transforming online theory instruction while building ability, belonging, and confidence”, led by [Diana Franklin](https://people.cs.uchicago.edu/~dmfranklin/) (Univerity of Chicago),
 with [Jeff Erickson](https://jeffe.cs.illinois.edu/) (Illinois PI),
 [Yael Gertner](https://ygertner.web.illinois.edu/),
 [Geoffrey Herman](https://publish.illinois.edu/glherman/) (Illinois co-PI),
