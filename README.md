@@ -14,11 +14,18 @@ _Proc. 2023 ASEE Annual Conference_, 2023.
 [automata: A Python package for simulating and manipulating automata](https://joss.theoj.org/papers/10.21105/joss.05759).
 _J. Open Source Software_ 8(90):5759, 2023.
 
-* 🔥 [Eliot W. Robson](https://eliotwrobson.github.io/),
+* [Eliot W. Robson](https://eliotwrobson.github.io/),
 [Samuel Ruggerio](https://surg.dev/),
 and [Jeff Erickson](https://jeffe.cs.illinois.edu/).
-[FSM Builder: A tool for writing autograded finite automata questions]([https://jeffe.cs.illinois.edu/pubs/fsmbuilder.html](https://dl.acm.org/doi/10.1145/3649217.3653599)).
+[FSM Builder: A tool for writing autograded finite automata questions](https://dl.acm.org/doi/10.1145/3649217.3653599).
 _Proc. 29th ITiCSE_, 269–275, 2024.
+
+* Hongxuan Chen,
+  [Katherine Braught](https://katherinebraught.github.io/),
+  [Geoffrey L. Herman](https://publish.illinois.edu/glherman/), 
+  and [Jeff Erickson](https://jeffe.cs.illinois.edu/).
+[Novice difficulties in graph layering for algorithm design](https://doi.org/10.1145/3641555.3705221).
+_Proc. 56th SIGCSE, v. 2_, 2025. Poster abstract.  [[Local copy](http://jeffe.cs.illinois.edu/pubs/layering.html)]
 
 ### Demos
 
