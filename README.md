@@ -1,6 +1,6 @@
 [![Slack](https://img.shields.io/badge/join%20slack-pl4tcs-orange)](https://pl4tcs.slack.com)
 
-<center><img src="NewTLlogo.png" width=66%></center>
+<img src="NewTLlogo.png" width=66%>
 
 We are a team developing resources on the PrairieLearn platform to support the teaching of algorithms, data structures, and other theoretical aspects of computer science, at several different levels of the computer science curriculum at the University of Illinois.  This development effort started with [CS 374](https://courses.engr.illinois.edu/cs374al1/fa2023/) (Algorithms and Models of Computation), but has since expanded to include several other classes at Illinois, including [CS 173](https://courses.engr.illinois.edu/193/sp2023/) (Discrete Structures), [CS 225](https://courses.engr.illinois.edu/cs225/fa2023/) (Data Structures}, [CS 277](https://courses.engr.illinois.edu/cs277/sp2023/) (Algorithms and Data Structures for [Data Science](https://datascience.illinois.edu/)), and [CS 401](https://cs.illinois.edu/academics/courses/cs401)/[403](https://cs.illinois.edu/academics/courses/cs403) (Accelerated Fundamentals of Algorithms).
 
