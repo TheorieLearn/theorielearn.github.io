@@ -22,7 +22,7 @@ and [Jeff Erickson](https://jeffe.cs.illinois.edu/).
 [FSM Builder: A tool for writing autograded finite automata questions](https://dl.acm.org/doi/10.1145/3649217.3653599).
 _Proc. 29th ITiCSE_, 269–275, 2024.
 
-* Hongxuan Chen,
+* [Hongxuan Chen](https://hxchen9.github.io/),
   [Katherine Braught](https://katherinebraught.github.io/),
   [Geoffrey L. Herman](https://publish.illinois.edu/glherman/), 
   and [Jeff Erickson](https://jeffe.cs.illinois.edu/).
@@ -55,7 +55,7 @@ _Proc. 56th SIGCSE, v. 2_, 2025. Poster abstract.  [[Local copy](http://jeffe.cs
    * [Sam Ruggerio](https://surg.dev/) (since 2025)
 * Director (since Fall 2021): [Jeff Erickson](https://jeffe.cs.illinois.edu/)
 * Co-director (since Fall 2022): [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans)
-* Research assistants: [Eliot Robson](https://eliotwrobson.github.io/) and Hongxuan Chen
+* Research assistants: [Hongxuan Chen](https://hxchen9.github.io/), [Eliot Robson](https://eliotwrobson.github.io/), and [Sam Ruggerio](https://surg.dev/)
 
 **Developers:**
 * Fall 2025: Aydin Ali, Anya Gill, Matthew Leonardson, Katie Li, [Sam Ruggerio](https://surg.dev/), Nehan Tarefder 
@@ -63,11 +63,11 @@ _Proc. 56th SIGCSE, v. 2_, 2025. Poster abstract.  [[Local copy](http://jeffe.cs
 * Fall 2024: Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), Elisa Carillo, Nathan Omerza, Yuqing Zhai
 * Spring 2024: Alex Jin, Dhiraj Kuttichirayil, Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), George Huber, Nathan Omerza, Vedaant Jain, Yuqing Zhai
 * Fall 2023: Alex Jin, Dhiraj Kuttichirayil, [Eliot Robson](https://eliotwrobson.github.io/), Nathan Omerza, Riya Verma, Yuqing Zhai
-* Spring 2023: Anshul Bheemreddy, Ben Clarage, Tue Do, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio
-* Fall 2022: Ben Clarage, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio, Andrew Yin
-* Summer 2022: [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio
-* Spring 2022: Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), Sam Ruggerio, Jason Xia, Andrew Yin
-* Fall 2021: Julie Lee, Steven Pan, Eliot Robson, Tomoko Sakurayama, Jason Xia
+* Spring 2023: Anshul Bheemreddy, Ben Clarage, Tue Do, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), [Sam Ruggerio](https://surg.dev/)
+* Fall 2022: Ben Clarage, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), [Sam Ruggerio](https://surg.dev/), Andrew Yin
+* Summer 2022: [Eliot Robson](https://eliotwrobson.github.io/), [Sam Ruggerio](https://surg.dev/)
+* Spring 2022: Eric Jin, [Eliot Robson](https://eliotwrobson.github.io/), [Sam Ruggerio](https://surg.dev/), Jason Xia, Andrew Yin
+* Fall 2021: Julie Lee, Steven Pan, [Eliot Robson](https://eliotwrobson.github.io/), Tomoko Sakurayama, Jason Xia
 * Spring 2021: Patrick Lin, Jason Xia
 
 
@@ -82,14 +82,16 @@ _Proc. 56th SIGCSE, v. 2_, 2025. Poster abstract.  [[Local copy](http://jeffe.cs
   * Spring 2024: Timothy Chan and Ruta Mehta
   * Fall 2024: Sariel Har-Peled
   * Spring 2025: Chandra Chekuri and James Hulett
-* CS 225 (since Fall 2022): [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans) and [Brad Solomon](https://publish.illinois.edu/bradsol/)
+  * Fall 2025: [Jeff Erickson](https://jeffe.cs.illinois.edu/) and Emily Fox
+* CS 225 (since Fall 2022): [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans), [Brad Solomon](https://publish.illinois.edu/bradsol/), and Harsha Tirumala
 * CS 173:
   * Fall 2022–Spring 2024: Benjamin Cosman
   * Fall 2024: [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans) and Naina Balepur
   * Spring 2025: Margaret Fleck and Naina Balepur
-  * Summer 2025: Hongxuan Chen and Naina Balepur
+  * Summer 2025: [Hongxuan Chen](https://hxchen9.github.io/) and Naina Balepur
+  * Fall 2025: Carl Evans and Daniel Gonzalez
 * CS 401 and CS 403 (since Spring 2023): [Yael Gertner](https://ygertner.web.illinois.edu/)
-* CS 277 (since Spring 2023): Brad Solomon
+* CS 277 (since Spring 2023): [Brad Solomon](https://publish.illinois.edu/bradsol/)
 
 **Funding:**
 
