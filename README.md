@@ -50,12 +50,15 @@ _Proc. 56th SIGCSE, v. 2_, 2025. Poster abstract.  [[Local copy](http://jeffe.cs
 ### Credits
 
 * Instigator: Jason Xia 
-* Chief Software Architect (since Fall 2021): [Eliot Robson](https://eliotwrobson.github.io/)
+* Chief Software Architect:
+   * [Eliot Robson](https://eliotwrobson.github.io/) (2021–2025)
+   * [Sam Ruggerio](https://surg.dev/) (since 2025)
 * Director (since Fall 2021): [Jeff Erickson](https://jeffe.cs.illinois.edu/)
 * Co-director (since Fall 2022): [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans)
 * Research assistants: [Eliot Robson](https://eliotwrobson.github.io/) and Hongxuan Chen
 
 **Developers:**
+* Fall 2025: Aydin Ali, Anya Gill, Matthew Leonardson, Katie Li, [Sam Ruggerio](https://surg.dev/), Nehan Tarefder 
 * Spring 2025: Anya Gill, Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), Elisa Carillo, Yuqing Zhai
 * Fall 2024: Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), Elisa Carillo, Nathan Omerza, Yuqing Zhai
 * Spring 2024: Alex Jin, Dhiraj Kuttichirayil, Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), George Huber, Nathan Omerza, Vedaant Jain, Yuqing Zhai
