@@ -37,7 +37,7 @@ _Proc. 56th SIGCSE, v. 2_, 2025. Poster abstract.  [[Local copy](http://jeffe.cs
   and [Jeff Erickson](https://jeffe.cs.illinois.edu/).
 [Measuring students’ perceptions of an autograded scaffolding tool for students performing at all levels in an algorithms class
 ]([https://doi.org/10.1145/3641555.3705221](https://sigcse2026.sigcse.org/details/sigcse-ts-2026-Papers/69/Measuring-Students-Perceptions-of-an-Autograded-Scaffolding-Tool-for-Students-Perfor)).
-_Proc. 57th SIGCSE, 2026, to appear.
+_Proc. 57th SIGCSE_, 2026, to appear.
 
 ### Demos
 
