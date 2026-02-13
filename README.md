@@ -8,7 +8,7 @@ We are a team developing resources on the PrairieLearn platform to support the t
 
 * Jason Xia and [Craig Zilles](https://zilles.cs.illinois.edu/).  [Using context-free grammars to scaffold and automate feedback in precise mathematical writing](https://doi.org/10.1145/3545945.3569728).  _Proc. 54th SIGSCE_, 479–485, 2023.
 
-* [Jeff Erickson](https://jeffe.cs.illinois.edu/), Jason Xia, Eliot Wong Robson, Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, Jiwon Lee, Patrick Lin, Steven Pan, [Samuel Ruggerio](https://surg.dev/), Tomoko Sakurayama, Andrew Yin, [Yael Gertner](https://ygertner.web.illinois.edu/), and [Brad Solomon](https://publish.illinois.edu/bradsol/).
+* [Jeff Erickson](https://jeffe.cs.illinois.edu/), Jason Xia, [Eliot Wong Robson](https://eliotwrobson.github.io/), Tue Do, Aidan Glickman, Zhuofan Jia, Eric Jin, Jiwon Lee, Patrick Lin, Steven Pan, [Samuel Ruggerio](https://surg.dev/), Tomoko Sakurayama, Andrew Yin, [Yael Gertner](https://ygertner.web.illinois.edu/), and [Brad Solomon](https://publish.illinois.edu/bradsol/).
 [Auto-graded scaffolding exercises for theoretical computer science](https://jeffe.cs.illinois.edu/pubs/pl4tcs.html).
 _Proc. 2023 ASEE Annual Conference_, 2023.
 
@@ -28,6 +28,16 @@ _Proc. 29th ITiCSE_, 269–275, 2024.
   and [Jeff Erickson](https://jeffe.cs.illinois.edu/).
 [Novice difficulties in graph layering for algorithm design](https://doi.org/10.1145/3641555.3705221).
 _Proc. 56th SIGCSE, v. 2_, 2025. Poster abstract.  [[Local copy](http://jeffe.cs.illinois.edu/pubs/layering.html)]
+
+* [Yael Gertner](https://ygertner.web.illinois.edu/),
+  [Brad Solomon](https://publish.illinois.edu/bradsol/),
+  [Hongxuan Chen](https://hxchen9.github.io/),
+  [Eliot W. Robson](https://eliotwrobson.github.io/),
+  [Carl Evans](https://siebelschool.illinois.edu/about/people/faculty/gcevans), and
+  and [Jeff Erickson](https://jeffe.cs.illinois.edu/).
+[Measuring students’ perceptions of an autograded scaffolding tool for students performing at all levels in an algorithms class
+]([https://doi.org/10.1145/3641555.3705221](https://sigcse2026.sigcse.org/details/sigcse-ts-2026-Papers/69/Measuring-Students-Perceptions-of-an-Autograded-Scaffolding-Tool-for-Students-Perfor)).
+_Proc. 57th SIGCSE, 2026, to appear.
 
 ### Demos
 
