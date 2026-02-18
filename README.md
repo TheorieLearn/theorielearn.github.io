@@ -24,12 +24,12 @@ _Proc. 2023 ASEE Annual Conference_, 2023.
 
 * Caleb Evans and [Eliot W. Robson](https://eliotwrobson.github.io/).
 [automata: A Python package for simulating and manipulating automata](https://joss.theoj.org/papers/10.21105/joss.05759).
-_J. Open Source Software_ 8(90):5759, 2023.
+_J. Open Source Software_ 8(90):57–59, 2023.
 
 * [Eliot W. Robson](https://eliotwrobson.github.io/),
 [Samuel Ruggerio](https://surg.dev/),
 and [Jeff Erickson](https://jeffe.cs.illinois.edu/).
-[FSM Builder: A tool for writing autograded finite automata questions](https://dl.acm.org/doi/10.1145/3649217.3653599).
+[FSM Builder: A tool for writing autograded finite automata questions](https://doi.org/10.1145/3649217.3653599).
 _Proc. 29th ITiCSE_, 269–275, 2024.
 
 * [Hongxuan Chen](https://hxchen9.github.io/),
@@ -39,15 +39,14 @@ _Proc. 29th ITiCSE_, 269–275, 2024.
 [Novice difficulties in graph layering for algorithm design](https://doi.org/10.1145/3641555.3705221).
 _Proc. 56th SIGCSE, v. 2_, 2025. Poster abstract.  [[Local copy](http://jeffe.cs.illinois.edu/pubs/layering.html)]
 
-* [Yael Gertner](https://ygertner.web.illinois.edu/),
+* 🔥 [Yael Gertner](https://ygertner.web.illinois.edu/),
   [Brad Solomon](https://publish.illinois.edu/bradsol/),
   [Hongxuan Chen](https://hxchen9.github.io/),
   [Eliot W. Robson](https://eliotwrobson.github.io/),
   [Carl Evans](https://siebelschool.illinois.edu/about/people/faculty/gcevans), and
   and [Jeff Erickson](https://jeffe.cs.illinois.edu/).
 [Measuring students’ perceptions of an autograded scaffolding tool for students performing at all levels in an algorithms class
-]([https://doi.org/10.1145/3641555.3705221](https://sigcse2026.sigcse.org/details/sigcse-ts-2026-Papers/69/Measuring-Students-Perceptions-of-an-Autograded-Scaffolding-Tool-for-Students-Perfor)).
-_Proc. 57th SIGCSE_, 2026, to appear.
+](https://doi.org/10.1145/3770762.3772510). _Proc. 57th SIGCSE_, 393–399, 2026.
 
 
 ### Credits
