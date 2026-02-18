@@ -7,8 +7,8 @@ We are a team developing resources on the PrairieLearn platform to support the t
 ### 🔥 Products!
 
 * 🔥 [Public GitHub repository](https://github.com/TheorieLearn/TheorieLearn) — Free to use, copy, adapt, and/or remix in your own PrairieLearn courses!
-  * All text released under a [Creative Commons Attribution (CC-BY) License](https://creativecommons.org/licenses/by/4.0/deed.en)
-  * All code in this repository is released under [The MIT License](https://github.com/TheorieLearn/TheorieLearnPublic/blob/main/LICENSE).
+  * All text is released under a [Creative Commons Attribution (CC-BY) License](https://creativecommons.org/licenses/by/4.0/deed.en)
+  * All code is released under [The MIT License](https://github.com/TheorieLearn/TheorieLearnPublic/blob/main/LICENSE).
 * 🔥 [Public demo course / catalog](https://us.prairielearn.com/pl/course_instance/210757/assessments) on [PrairieLearn](https://prairielearn.org).
   * The course includes both a full suite of guided problems sets from CS 374 and a complete catalog of questions and elements available in our public Github repo.
   * The course is freely accessible to anyone with a Microsoft account, Google account, or login credentials at a university with a contract with PrairieLearn.
