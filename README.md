@@ -74,33 +74,22 @@ _Proc. 56th SIGCSE, v. 2_, 2025. Poster abstract.  [[Local copy](http://jeffe.cs
 * Spring 2021: Patrick Lin, Jason Xia
 
 **Instructors at Illinois** that have used TheorieLearn resources in their courses:
-* CS 374:
-  * Spring 2021: Chandra Chekuri and Patrick Lin
-  * Fall 2021: [Jeff Erickson](https://jeffe.cs.illinois.edu/) and Dakshita Khurana
-  * Spring 2022: Timothy Chan and Ruta Mehta
-  * Fall 2022: Sariel Har-Peled
-  * Spring 2023: Chandra Chekuri
-  * Fall 2023: [Jeff Erickson](https://jeffe.cs.illinois.edu/)
-  * Spring 2024: Timothy Chan and Ruta Mehta
-  * Fall 2024: Sariel Har-Peled
-  * Spring 2025: Chandra Chekuri and James Hulett
-  * Fall 2025: [Jeff Erickson](https://jeffe.cs.illinois.edu/) and Emily Fox
-  * Spring 2026: Emily Fox and Ruta Mehta
-* CS 225:
-  * Fall 2022–Spring 2025: [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans) and [Brad Solomon](https://publish.illinois.edu/bradsol/)
-  * Fall 2025: [Brad Solomon](https://publish.illinois.edu/bradsol/), Harsha Tirumala, and Mattox Beckman
-  * Spring 2026: [Brad Solomon](https://publish.illinois.edu/bradsol/) and Kendall Koe
-* CS 173:
-  * Fall 2022–Spring 2024: Benjamin Cosman
-  * Fall 2024: [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans) and Naina Balepur
-  * Spring 2025: Margaret Fleck and Naina Balepur
-  * Summer 2025: [Hongxuan Chen](https://hxchen9.github.io/) and Naina Balepur
-  * Fall 2025: [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans) and Daniel Gonzalez
-  * Spring 2026: [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans), Daniel Gonzalez, and Margaret Fleck
-* CS 401 and CS 403 (since Spring 2023): [Yael Gertner](https://ygertner.web.illinois.edu/)
-* CS 277
-  * Spring 2023–Spring 2025: [Brad Solomon](https://publish.illinois.edu/bradsol/)
-  * Spring 2026: Harsha Tirumala and Mahesh Viswanathan
+* **CS 374** (since Spring 2021):
+  Chandra Chekuri, Dakshita Khurana, Emily Fox, James Hulett,
+  [Jeff Erickson](https://jeffe.cs.illinois.edu/),
+  Patrick Lin, Ruta Mehta, Sariel Har-Peled, and Timothy Chan
+* **CS 225** (since Fall 2022):
+  [Brad Solomon](https://publish.illinois.edu/bradsol/),
+  [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans),
+  Harsha Tirumala, Kendall Koe, and Mattox Beckman
+* **CS 173** (since Fall 2022):
+  Benjamin Cosman, [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans),
+  Daniel Gonzalez,
+  [Hongxuan Chen](https://hxchen9.github.io/), Margaret Fleck, Naina Balepur 
+* **CS 401 and CS 403** (since Spring 2023): [Yael Gertner](https://ygertner.web.illinois.edu/)
+* **CS 277** (since Spring 2023):
+  [Brad Solomon](https://publish.illinois.edu/bradsol/),
+  Harsha Tirumala, and Mahesh Viswanathan
 
 **Funding:**
 
