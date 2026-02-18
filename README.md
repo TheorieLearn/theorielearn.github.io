@@ -2,7 +2,17 @@
 
 ![TheorieLearn logo](NewTLlogo.png)
 
-We are a team developing resources on the PrairieLearn platform to support the teaching of algorithms, data structures, and other theoretical aspects of computer science, at several different levels of the computer science curriculum at the University of Illinois.  This development effort started with [CS 374](https://courses.engr.illinois.edu/cs374al1/fa2023/) (Algorithms and Models of Computation), but has since expanded to include several other classes at Illinois, including [CS 173](https://courses.engr.illinois.edu/193/sp2023/) (Discrete Structures), [CS 225](https://courses.engr.illinois.edu/cs225/fa2023/) (Data Structures}, [CS 277](https://courses.engr.illinois.edu/cs277/sp2023/) (Algorithms and Data Structures for [Data Science](https://datascience.illinois.edu/)), and [CS 401](https://cs.illinois.edu/academics/courses/cs401)/[403](https://cs.illinois.edu/academics/courses/cs403) (Accelerated Fundamentals of Algorithms).
+We are a team developing resources on the PrairieLearn platform to support the teaching of algorithms, data structures, and other theoretical aspects of computer science, at several different levels of the computer science curriculum at the University of Illinois.  This development effort started with [CS 374](https://courses.engr.illinois.edu/cs374al1/) (Algorithms and Models of Computation), but has since expanded to include several other classes at Illinois, including [CS 173](https://courses.engr.illinois.edu/cs173/) (Discrete Structures), [CS 225](https://courses.engr.illinois.edu/cs225/) (Data Structures}, [CS 277](https://courses.engr.illinois.edu/cs277/) (Algorithms and Data Structures for [Data Science](https://datascience.illinois.edu/)), and [CS 401](https://cs.illinois.edu/academics/courses/cs401)/[403](https://cs.illinois.edu/academics/courses/cs403) (Accelerated Fundamentals of Algorithms).
+
+### 🔥 Products!
+
+* 🔥 [Public GitHub repository](https://github.com/TheorieLearn/TheorieLearn) — Free to use, copy, adapt, and/or remix in your own PrairieLearn courses!
+  * All text released under a [Creative Commons Attribution (CC-BY) License](https://creativecommons.org/licenses/by/4.0/deed.en)
+  * All code in this repository is released under [The MIT License](https://github.com/TheorieLearn/TheorieLearnPublic/blob/main/LICENSE).
+* 🔥 [Public demo course / catalog](https://us.prairielearn.com/pl/course_instance/210757/assessments) on [PrairieLearn](https://prairielearn.org).
+  * The course includes both a full suite of guided problems sets from CS 374 and a complete catalog of questions and elements available in our public Github repo.
+  * The course is freely accessible to anyone with a Microsoft account, Google account, or login credentials at a university with a contract with PrairieLearn.
+* Contributions to the [Spiffy Questions with PrairieLearn](https://www.prairielearn.com/sigcse2024) workshop at [SIGCSE 2024](https://sigcse2024.sigcse.org/)
 
 ### Publications
 
@@ -39,23 +49,6 @@ _Proc. 56th SIGCSE, v. 2_, 2025. Poster abstract.  [[Local copy](http://jeffe.cs
 ]([https://doi.org/10.1145/3641555.3705221](https://sigcse2026.sigcse.org/details/sigcse-ts-2026-Papers/69/Measuring-Students-Perceptions-of-an-Autograded-Scaffolding-Tool-for-Students-Perfor)).
 _Proc. 57th SIGCSE_, 2026, to appear.
 
-### Demos
-
-* [Public practice instance of CS 374](https://www.prairielearn.org/pl/course_instance/129595)
-* Contributed to the [Spiffy Questions with PrairieLearn](https://www.prairielearn.com/sigcse2024) workshop at [SIGCSE 2024](https://sigcse2024.sigcse.org/)
-* 🚧 Public course repository (code MIT Licence; text CC-BY) coming soon
-
-### Products
-
-* [CS 374 Github repository](https://github.com/jeffgerickson/pl-uiuc-cs374) (private)
-   * 🎁 **We are happy to provide access to our Github repository to interested instructors!**
-* Elements createed by our project that have since been migrated into PrairieLearn proper include
-   * [`pl-big-o-input`](https://prairielearn.readthedocs.io/en/latest/elements/#pl-big-o-input-element)
-   * [`pl-hidden-hints`](https://prairielearn.readthedocs.io/en/latest/elements/#pl-hidden-hints-element)
-* Contributions to the [automata](https://github.com/caleb531/automata) Python library
-* In development:
-   * [Graph/state builder element](https://github.com/Surg-Dev/graph-state-builder-pl), based in part on [Evan Wallace's fsm](https://github.com/evanw/fsm) <!-- and [Caleb Evans' automata](https://github.com/caleb531/automata).-->
-
 
 ### Credits
 
@@ -68,6 +61,7 @@ _Proc. 57th SIGCSE_, 2026, to appear.
 * Research assistants: [Hongxuan Chen](https://hxchen9.github.io/), [Eliot Robson](https://eliotwrobson.github.io/), and [Sam Ruggerio](https://surg.dev/)
 
 **Developers:**
+* Spring 2026: Aryan Arora, Aydin Ali, Anya Gill, Matthew Leonardson, [Sam Ruggerio](https://surg.dev/), Nehan Tarefder 
 * Fall 2025: Aydin Ali, Anya Gill, Matthew Leonardson, Katie Li, [Sam Ruggerio](https://surg.dev/), Nehan Tarefder 
 * Spring 2025: Anya Gill, Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), Elisa Carillo, Yuqing Zhai
 * Fall 2024: Eli Kujawa, [Eliot Robson](https://eliotwrobson.github.io/), Elisa Carillo, Nathan Omerza, Yuqing Zhai
@@ -80,8 +74,7 @@ _Proc. 57th SIGCSE_, 2026, to appear.
 * Fall 2021: Julie Lee, Steven Pan, [Eliot Robson](https://eliotwrobson.github.io/), Tomoko Sakurayama, Jason Xia
 * Spring 2021: Patrick Lin, Jason Xia
 
-
-**Instructors** that have used resources in this repository in their courses:
+**Instructors at Illinois** that have used TheorieLearn resources in their courses:
 * CS 374:
   * Spring 2021: Chandra Chekuri and Patrick Lin
   * Fall 2021: [Jeff Erickson](https://jeffe.cs.illinois.edu/) and Dakshita Khurana
@@ -93,15 +86,22 @@ _Proc. 57th SIGCSE_, 2026, to appear.
   * Fall 2024: Sariel Har-Peled
   * Spring 2025: Chandra Chekuri and James Hulett
   * Fall 2025: [Jeff Erickson](https://jeffe.cs.illinois.edu/) and Emily Fox
-* CS 225 (since Fall 2022): [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans), [Brad Solomon](https://publish.illinois.edu/bradsol/), and Harsha Tirumala
+  * Spring 2026: Emily Fox and Ruta Mehta
+* CS 225:
+  * Fall 2022–Spring 2025: [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans) and [Brad Solomon](https://publish.illinois.edu/bradsol/)
+  * Fall 2025: [Brad Solomon](https://publish.illinois.edu/bradsol/), Harsha Tirumala, and Mattox Beckman
+  * Spring 2026: [Brad Solomon](https://publish.illinois.edu/bradsol/) and Kendall Koe
 * CS 173:
   * Fall 2022–Spring 2024: Benjamin Cosman
   * Fall 2024: [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans) and Naina Balepur
   * Spring 2025: Margaret Fleck and Naina Balepur
   * Summer 2025: [Hongxuan Chen](https://hxchen9.github.io/) and Naina Balepur
-  * Fall 2025: Carl Evans and Daniel Gonzalez
+  * Fall 2025: [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans) and Daniel Gonzalez
+  * Spring 2026: [Carl Evans](https://cs.illinois.edu/about/people/faculty/gcevans), Daniel Gonzalez, and Margaret Fleck
 * CS 401 and CS 403 (since Spring 2023): [Yael Gertner](https://ygertner.web.illinois.edu/)
-* CS 277 (since Spring 2023): [Brad Solomon](https://publish.illinois.edu/bradsol/)
+* CS 277
+  * Spring 2023–Spring 2025: [Brad Solomon](https://publish.illinois.edu/bradsol/)
+  * Spring 2026: Harsha Tirumala and Mahesh Viswanathan
 
 **Funding:**
 
@@ -122,6 +122,6 @@ with [Jeff Erickson](https://jeffe.cs.illinois.edu/) (Illinois PI),
 [Geoffrey Herman](https://publish.illinois.edu/glherman/) (Illinois co-PI),
 and [Seth Poulsen](https://sethpoulsen.github.io/) (Utah State PI).
 
-
 **Other Acknowledgments:**
-Many thanks to the core PrairieLearn development team, especially Dave Mussulman, Seth Poulson, Nathan Walters, and Matt West.  FInally, we thank the roughly 3500 students in CS 374, CS 225, and CS 173 who have used these resources, for their patience, frustration, and helpful feedback.
+
+Many thanks to the core PrairieLearn development team, especially Dave Mussulman, Seth Poulson, Nathan Walters, and Matt West.  Finally, we thank the more than 6000 students at Illinois who have used these resources, for their patience, frustration, and helpful feedback.
