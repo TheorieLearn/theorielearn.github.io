@@ -73,7 +73,7 @@ _Proc. 56th SIGCSE, v. 2_, 2025. Poster abstract.  [[Local copy](http://jeffe.cs
 * Fall 2021: Julie Lee, Steven Pan, [Eliot Robson](https://eliotwrobson.github.io/), Tomoko Sakurayama, Jason Xia
 * Spring 2021: Patrick Lin, Jason Xia
 
-**Instructors at Illinois** that have used TheorieLearn resources in their courses:
+**Instructors at Illinois** who have used TheorieLearn resources in their courses:
 * **CS 374** (since Spring 2021):
   Chandra Chekuri, Dakshita Khurana, Emily Fox, James Hulett,
   [Jeff Erickson](https://jeffe.cs.illinois.edu/),
@@ -90,6 +90,8 @@ _Proc. 56th SIGCSE, v. 2_, 2025. Poster abstract.  [[Local copy](http://jeffe.cs
 * **CS 277** (since Spring 2023):
   [Brad Solomon](https://publish.illinois.edu/bradsol/),
   Harsha Tirumala, and Mahesh Viswanathan
+
+*If you are using these resources as an instructor at another institution, and you would like to be listed here, please contact [Jeff Erickson](https://jeffe.cs.illinois.edu/).*
 
 **Funding:**
 
