@@ -106,7 +106,7 @@ the 2022–23 startup SIIP team also included Tiffani Williams.
   * [2023-2024 proposal](proposals/TheorieLearn-SIIP-2023.pdf) — AE3 Liaison: Mariana Silva
   * [2024-2025 renewal](proposals/TheorieLearn-SIIP-2024.pdf) — AE3 Liaison: Mattox Beckman
  
-* 🔥 [Related research](https://www.canonlab.org/theoryabcs) is funded by NSF grant CNS-2434363. “Theory-ABCs: Transforming online theory instruction while building ability, belonging, and confidence”, led by [Diana Franklin](https://people.cs.uchicago.edu/~dmfranklin/) (Univerity of Chicago),
+* 🔥 [Related research](https://www.canonlab.org/theoryabcs) is funded by NSF grant CNS-2434363. “Theory-ABCs: Transforming online theory instruction while building ability, belonging, and confidence”, led by [Diana Franklin](https://people.cs.uchicago.edu/~dmfranklin/) (University of Chicago),
 with [Jeff Erickson](https://jeffe.cs.illinois.edu/) (Illinois PI),
 [Yael Gertner](https://ygertner.web.illinois.edu/),
 [Geoffrey Herman](https://publish.illinois.edu/glherman/) (Illinois co-PI),
